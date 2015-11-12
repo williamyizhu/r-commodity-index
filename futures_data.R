@@ -39,9 +39,9 @@ ETNIV0 = 100
 InterestRate = 0.0035
 InterestTerm = 1
 #ETN products
-LevInd = c("LEV1X", "LEV2X", "INV1X")
-Leverage = c(1, 2, -1)
-YearlyFee = c(0.0055, 0.0065, 0.0075)
+LevInd = c("LEV1X", "INV1X")
+Leverage = c(1, -1)
+YearlyFee = c(0.0055, 0.0075)
 
 #----------------  ----------------
 #trading day of an exchange
